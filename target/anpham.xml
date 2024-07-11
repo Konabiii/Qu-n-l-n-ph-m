@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AnPhams>
+    <AnPham>
+        <giaThanh>59000.0</giaThanh>
+        <id>4</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>4</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN ĐẠI HỌC QUỐC GIA</nhaXuatBan>
+        <soLuong>5</soLuong>
+        <tacGia>A</tacGia>
+        <tenAnPham>Cấu trúc dữ liệu và giải thuật</tenAnPham>
+    </AnPham>
+    <AnPham>
+        <giaThanh>27000.0</giaThanh>
+        <id>6</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>6</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN BỘ GIÁO DỤC</nhaXuatBan>
+        <soLuong>10</soLuong>
+        <tacGia>F</tacGia>
+        <tenAnPham>Giải tích 1</tenAnPham>
+    </AnPham>
+    <AnPham>
+        <giaThanh>43000.0</giaThanh>
+        <id>5</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>5</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN BỘ GIÁO DỤC</nhaXuatBan>
+        <soLuong>3</soLuong>
+        <tacGia>E</tacGia>
+        <tenAnPham>Hóa Vô Cơ</tenAnPham>
+    </AnPham>
+    <AnPham>
+        <giaThanh>30000.0</giaThanh>
+        <id>1</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>1</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN BỘ GIÁO DỤC</nhaXuatBan>
+        <soLuong>8</soLuong>
+        <tacGia>C</tacGia>
+        <tenAnPham>Lý thuyết sắc xuất thông kê</tenAnPham>
+    </AnPham>
+    <AnPham>
+        <giaThanh>45000.0</giaThanh>
+        <id>2</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>2</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN BỘ GIÁO DỤC</nhaXuatBan>
+        <soLuong>4</soLuong>
+        <tacGia>D</tacGia>
+        <tenAnPham>Lập trình C</tenAnPham>
+    </AnPham>
+    <AnPham>
+        <giaThanh>50000.0</giaThanh>
+        <id>3</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>3</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN TRƯỜNG ĐẠI HỌC PHENIKAA</nhaXuatBan>
+        <soLuong>2</soLuong>
+        <tacGia>B</tacGia>
+        <tenAnPham>Lập trình hướng đối tượng</tenAnPham>
+    </AnPham>
+    <AnPham>
+        <giaThanh>37000.0</giaThanh>
+        <id>7</id>
+        <loaiAnPham>Sách giáo khoa</loaiAnPham>
+        <maSo>7</maSo>
+        <nhaXuatBan>NHÀ XUẤT BẢN HÀ NỘI</nhaXuatBan>
+        <soLuong>7</soLuong>
+        <tacGia>G</tacGia>
+        <tenAnPham>Vật lý 1</tenAnPham>
+    </AnPham>
+</AnPhams>

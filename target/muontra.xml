@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MuonTras>
+    <MuonTra>
+        <Id>1</Id>
+        <DiaChi>Hoàn Kiếm</DiaChi>
+        <Ten>Nguyên Văn B</Ten>
+        <Lop>CNTTVJ2</Lop>
+        <TenSach>Lý thuyết sắc xuất thống kê</TenSach>
+        <TrangThai>Chưa trả</TrangThai>
+    </MuonTra>
+    <MuonTra>
+        <Id>2</Id>
+        <DiaChi>Hà Đông</DiaChi>
+        <Ten>Nguyễn Văn A</Ten>
+        <Lop>CNTT2</Lop>
+        <TenSach>Cấu trúc dữ liệu và giải thuật</TenSach>
+        <TrangThai>Đã trả</TrangThai>
+    </MuonTra>
+    <MuonTra>
+        <Id>3</Id>
+        <DiaChi>Hoàng Mai</DiaChi>
+        <Ten>Nguyên Văn C</Ten>
+        <Lop>KHMT</Lop>
+        <TenSach>Nhập môn cơ sở dữ liệu</TenSach>
+        <TrangThai>Đã trả</TrangThai>
+    </MuonTra>
+    <MuonTra>
+        <Id>4</Id>
+        <DiaChi>Bắc Từ Liêm</DiaChi>
+        <Ten>Nguyễn Văn D</Ten>
+        <Lop>Dược 1</Lop>
+        <TenSach>Hóa vô cơ</TenSach>
+        <TrangThai>Chưa trả</TrangThai>
+    </MuonTra>
+    <MuonTra>
+        <Id>5</Id>
+        <DiaChi>Hoài Đức</DiaChi>
+        <Ten>Nguyễn Văn E</Ten>
+        <Lop>KTOT 2</Lop>
+        <TenSach>Vật lý 1</TenSach>
+        <TrangThai>Đã trả</TrangThai>
+    </MuonTra>
+    <MuonTra>
+        <Id>6</Id>
+        <DiaChi>Long Biên</DiaChi>
+        <Ten>Nguyễn văn F</Ten>
+        <Lop>ĐTVT 1</Lop>
+        <TenSach>Giải tích 1</TenSach>
+        <TrangThai>Chưa trả</TrangThai>
+    </MuonTra>
+</MuonTras>
